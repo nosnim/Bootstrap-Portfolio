@@ -1,0 +1,68 @@
+body {
+    color: #777777;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    /*background: url(hypnotize.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;*/
+    background-image: url("images/hypnotize.png");
+    background-repeat: repeat;
+}
+
+#eric {
+    padding: 18px 0 18px 0;
+    text-align: center;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: #4aaaa5;
+    margin-bottom: 0;
+    margin-left: -11%;
+}
+
+.gray a {
+    color: #777777;
+}
+
+.about {
+    color: #4aaaa4;
+    font-weight: bold;
+    border-bottom: 2px solid #cccccc;
+    padding: 20px 0 0 20px;  
+}
+
+.connect {
+    color: #4aaaa4;
+}
+
+.grayline {
+    border-bottom: 2px solid #cccccc; 
+    padding: 15px 0 15px 0;
+}
+
+.sidebar-wrapper {
+    
+    float: right;    
+    padding-top: 15px;
+    text-align: center;
+}
+
+.footer {
+    /*clear: both;*/
+    width: 100%;
+    border-top: 10px solid #4aaaa5;
+    background-color: #777777;
+    text-align: center;
+    color: #cccccc;
+    font-size: .75em;
+    padding: 25px 0 20px 0;
+    /*position: absolute;*/
+    left: 0; bottom: 0;
+}
+
+#logos {
+    margin-left: 21%;
+}
+
+.info {
+    margin: 15px 0 15px 15px;
+}
